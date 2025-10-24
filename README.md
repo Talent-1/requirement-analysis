@@ -112,7 +112,8 @@ Links system functions directly to user requirements.
 - **Supports documentation and testing:**
 Provides a foundation for writing user stories, test cases, and validation steps.
 
-[View the Hotel Booking system diagram on Draw.io]([https://app.diagrams.net/#G1a2b3c4examplelink](https://drive.google.com/file/d/1_W2LS0QyGE0zLDJ0YJkAsLYkSWRM8aWU/view?usp=sharing))
+[View the Hotel Booking system diagram on Draw.io](https://drive.google.com/file/d/1_W2LS0QyGE0zLDJ0YJkAsLYkSWRM8aWU/view?usp=sharing)
+
 
 ---
 
