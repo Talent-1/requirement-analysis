@@ -112,7 +112,11 @@ Links system functions directly to user requirements.
 - **Supports documentation and testing:**
 Provides a foundation for writing user stories, test cases, and validation steps.
 
-![ Hotel Booking System  Diagram](https://drive.google.com/file/d/1C8qxTBG8z9InoddzoPBYHA_In3LKKCEZ/view?usp=drive_link)
+<p align="center">
+  <img src="alx-booking-uc.png" alt="Hotel Booking System Diagram" width="500">
+</p>
+
+
 
 
 [View the Hotel Booking system diagram on Draw.io](https://drive.google.com/file/d/1_W2LS0QyGE0zLDJ0YJkAsLYkSWRM8aWU/view?usp=sharing)
